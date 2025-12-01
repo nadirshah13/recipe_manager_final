@@ -35,3 +35,4 @@ void displayMenu() {
     std::cout << "5. Save and quit\n";
     std::cout << "Choice: ";
 }
+std::cout << "4. Rate a recipe\n";
