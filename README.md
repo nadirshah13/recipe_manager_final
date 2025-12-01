@@ -29,3 +29,7 @@ add_executable(recipe_manager_final
     # src/recipe.cpp          # will add later
     # src/recipe_manager.cpp  # will add later
 )
+## Checkpoint 2 Complete
+- Add Recipe
+- Display All Recipes
+- Search by Name or Category (new!)
